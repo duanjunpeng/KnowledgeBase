@@ -75,7 +75,6 @@ cat << EOF > .gitignore
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .trash/
+.DS_Store
 EOF
 ```
-
-
